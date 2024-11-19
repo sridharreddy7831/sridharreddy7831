@@ -1,5 +1,3 @@
-<p align="center"><img src="animation.gif" width="35%"></p>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Nalipi+Sridhar+Reddy;B.Tech+AIML'25+@+KSRMCE;I'+am+a+Software+QA+Engineer+at+QAD;Welcome+to+my+profile+!">
 </p>
@@ -7,7 +5,6 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -51,6 +48,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7Blia0wang%7D/count.svg" alt="visitor badge" width="30%"></p>
 
 ------
-Credit: [lia0wang](https://github.com/lia0wang)
 
-Last Edited on: 26/03/2000
+
+Last Edited on: 19/11/2024
