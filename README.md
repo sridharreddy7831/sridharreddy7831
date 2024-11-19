@@ -8,22 +8,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-### 📈 &nbsp;Contribution Statistics
-
-<br/>
-<p align="left">
-  <a href="https://lia0wang.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lia0wang&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lia0wang&theme=blueberry&hide_border=true" />
-  </a>
-</p>
-<br>
-
-[![Wang Liao' Activity Graph](https://activity-graph.herokuapp.com/graph?username=lia0wang&custom_title=Wang%20Liao's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://lia0wang.dev)
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
 
 ### 🛠 &nbsp;Tech Stack
 
